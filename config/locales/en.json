@@ -1,0 +1,17 @@
+{
+	"User.Username": 					"Username",
+	"User.Email": 						"Email",
+
+	"Error.Passport.Password.Invalid": 	"The provided password is invalid!",
+	"Error.Passport.Password.Wrong": 	"Your username and/or password is invalid",
+	"Error.Passport.Password.NotSet": 	"Your password has not been set. Please contact support.",
+	"Error.Passport.Username.NotFound": "Your username and/or password is invalid",
+	"Error.Passport.User.Exists": 		"This username is already taken.",
+	"Error.Passport.Email.NotFound": 	"Your username and/or password is invalid",
+	"Error.Passport.Email.Missing": 	"You need to supply an email-address for verification",
+	"Error.Passport.Email.Exists": 		"This email already exists.",
+	"Error.Passport.Username.Missing": 	"You need to supply a username",
+	"Error.Passport.Password.Missing": 	"You haven't set a password yet",
+	"Error.Passport.Generic": 			"Snap. Something went wrong with authorization.",
+	"Error.Passport.Unknown": 			"Opps! Something internally went wrong. Issue #%s"
+}
